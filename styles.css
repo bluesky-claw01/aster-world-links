@@ -10,7 +10,7 @@
   --border: rgba(255,255,255,0.08);
   --shadow: 0 12px 40px rgba(0,0,0,0.35);
   --radius: 16px;
-  --max: 1100px;
+  --max: 1180px;
   --font: "Segoe UI", system-ui, -apple-system, "PingFang SC", "Noto Sans SC", "Microsoft YaHei", sans-serif;
 }
 * { box-sizing: border-box; }

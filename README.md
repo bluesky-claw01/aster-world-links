@@ -1,11 +1,7 @@
 # Aster World Directory
 
-Neutral bilingual static directory of official homepages across five categories:
+Neutral bilingual static link directory (GitHub Pages).
 
-- Universities
-- Governments
-- Car Brands
-- AI Companies
-- AI Agent Companies
+Live: https://bluesky-claw01.github.io/aster-world-links/
 
-Published via GitHub Pages. Lists are curated for navigation convenience only — not official rankings or affiliations.
+Curated official homepages across universities, governments, cars, AI, agents, luxury, tourism, English learning, sports, news, photographers, finance, private equity, and crypto.
